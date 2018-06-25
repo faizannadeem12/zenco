@@ -21,3 +21,14 @@ Find the location of an IP address using the GeoIP lookup location tool.
 A simple TCP Port Scan to quickly determine the status of an Internet facing service or firewall.
 # Reverse IP Lookup
 Discover web hosts sharing an IP address with a reverse IP lookup.
+
+# HOW TO INSTALL:
+git clone https://github.com/faizannadeem12/zenco.git
+cd zenco
+chmod +x install.sh
+./install.sh
+
+# RUN DIRECTLY
+git clone https://github.com/faizannadeem12/zenco.git
+cd zenco
+python zenco.py
