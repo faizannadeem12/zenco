@@ -24,11 +24,16 @@ Discover web hosts sharing an IP address with a reverse IP lookup.
 
 # HOW TO INSTALL:
 1)git clone https://github.com/faizannadeem12/zenco.git
+
 2)cd zenco
+
 3)chmod +x install.sh
+
 4)./install.sh
 
 # RUN DIRECTLY
 1)git clone https://github.com/faizannadeem12/zenco.git
+
 2)cd zenco
+
 3)python zenco.py
