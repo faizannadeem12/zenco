@@ -29,7 +29,7 @@ fi
 
  echo "[✔] Installing ...";
  echo "";
- git clone https://github.com/Manisso/zenco.git /usr/share/doc/zenco;
+ git clone https://github.com/faizannadeem12/zenco.git /usr/share/doc/zenco;
  echo "#!/bin/bash 
  python /usr/share/doc/zenco/zenco.py" '${1+"$@"}' > zenco;
  chmod +x zenco;
