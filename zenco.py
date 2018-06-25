@@ -18,9 +18,11 @@ logo = '''\033[0m
 ######## ######## ##    ##  ######   #######     
                                            
                             \033[0m  \033[91m    \033[1m 
-       }--{+} Coded By Faizan Nadeem {+}--{
-     }----{+}  www.facebook.com/technicalfaizi{+}----{
-       }--{+} THINK LIKE A HACKER {+}--{                               
+    _________________________________________
+       |     Coded By Faizan Nadeem      |
+       | www.facebook.com/technicalfaizi |
+       |     | THINK LIKE A HACKER       | 
+      ______________________________________
      '''
 menu = '''\033[32m
     {1}--Whois lookup
