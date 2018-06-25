@@ -22,7 +22,7 @@ logo = '''\033[0m
      }----{+}  www.facebook.com/technicalfaizi{+}----{
        }--{+} THINK LIKE A HACKER {+}--{                               
      '''
-menu = '''\033[0m
+menu = '''\033[32m
     {1}--Whois lookup
     {2}--DNS Lookup
     {3}--Reverse DNS Lookup
@@ -45,7 +45,7 @@ def quit():
            
 def  select():
   try:
-    choice = input("Crips~# ")
+    choice = input("zen~# ")
     if choice == 1:
       d3 = raw_input('Enter IP Or Domain : ')
       os.system("clear")
@@ -59,12 +59,6 @@ def  select():
       os.system("curl http://api.hackertarget.com/whois/?q=" + d3)
       print("")
       quit()
-    elif choice == 0:
-	  os.system("clear")
-	  print("This tool is only available for Linux and similar systems  ")
-	  os.system("git clone https://github.com/Manisso/Crips.git")
-	  os.system("cd Crips && sudo bash ./update.sh")
-	  os.system("crips")
 
     elif choice == 2:
       d3 = raw_input('Enter Domain : ')
@@ -83,7 +77,7 @@ ______ _   _ _____   _                 _
       print("")
       quit()    
     elif choice == 0:
-      print "Bye Bye"
+      print "Good Bye"
       os.system("clear")
       exit()
     elif choice == 3:
