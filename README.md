@@ -23,12 +23,12 @@ A simple TCP Port Scan to quickly determine the status of an Internet facing ser
 Discover web hosts sharing an IP address with a reverse IP lookup.
 
 # HOW TO INSTALL:
-git clone https://github.com/faizannadeem12/zenco.git
-cd zenco
-chmod +x install.sh
-./install.sh
+1)git clone https://github.com/faizannadeem12/zenco.git
+2)cd zenco
+3)chmod +x install.sh
+4)./install.sh
 
 # RUN DIRECTLY
-git clone https://github.com/faizannadeem12/zenco.git
-cd zenco
-python zenco.py
+1)git clone https://github.com/faizannadeem12/zenco.git
+2)cd zenco
+3)python zenco.py
