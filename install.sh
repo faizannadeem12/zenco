@@ -42,11 +42,11 @@ then
 echo "";
 echo "[✔]Tool istalled with success![✔]";
 echo "";
-  echo "[✔]====================================================================[✔]";
-  echo "[✔] ✔✔✔  All is done!! You can execute tool by typing zenco  !     ✔✔✔ [✔]"; 
-  echo "[✔]====================================================================[✔]";
+  echo "|####################################################################|";
+  echo "| ✔✔✔  All is done!! You can execute tool by typing zenco  !     ✔✔✔ |"; 
+  echo "|####################################################################|";
   echo "";
 else
-  echo "[✘] Installation faid![✘] ";
+  echo "[✘] Installation failed![✘] ";
   exit
 fi
