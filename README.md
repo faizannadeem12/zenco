@@ -1,18 +1,18 @@
 # zenco iNFORMATION GATHERING tOOL
-This Tools is a collection of online IP Tools that can be used to quickly get information about IP Address's, Web Pages and DNS records.
+This Tools is a collection of online IP Tools that can be used to quickly get information about IP Address's, Web Pages and DNS records etc.
 
 # Menu
-+ Whois lookup
-+ DNS Lookup
-+ Reverse DNS Lookup
-+ GeoIP Lookup
-+ Port Scan
-+ Reverse IP Lookup
-+ Exit
+1) Whois lookup
+2) DNS Lookup
+3) Reverse DNS Lookup
+4) GeoIP Lookup
+5) Port Scan
+6) Reverse IP Lookup
+7) Exit
 # Whois lookup
-Determine the registered owner of a domain or IP address block with the whois tool.
+Determine the registered owner of a domain or IP address block with the whois lookup tool.
 # DNS Lookup
-Find DNS records for a domain, results are determined using the dig DNS tool
+Find DNS records for a domain, results are determined using the dig DNS lookup tool
 # Reverse DNS Lookup
 Find Reverse DNS records for an IP address or a range of IP addresses.
 # GeoIP Lookup
